@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jingnan_common/jingnan_common.iml" filepath="$PROJECT_DIR$/jingnan_common/jingnan_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jingnan_common_db/jingnan_common_db.iml" filepath="$PROJECT_DIR$/jingnan_common_db/jingnan_common_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jingnan_data/jingnan_data.iml" filepath="$PROJECT_DIR$/jingnan_data/jingnan_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/jingnan_parent_one.iml" filepath="$PROJECT_DIR$/.idea/jingnan_parent_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jingnan_web/jingnan_web.iml" filepath="$PROJECT_DIR$/jingnan_web/jingnan_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_sdk_v3.0.9/wxpay-sdk.iml" filepath="$PROJECT_DIR$/java_sdk_v3.0.9/wxpay-sdk.iml" />
+    </modules>
+  </component>
+</project>
